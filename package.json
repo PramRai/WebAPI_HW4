@@ -9,7 +9,7 @@
   "author": "Pram",
   "license": "MIT",
   
-  "dependencies": {
+ "dependencies": {
 
     "@mars/heroku-js-runtime-env": "^3.0.2",
 
@@ -41,5 +41,5 @@
 
     "redux-thunk": "^2.3.0"
 
-  }
+  },
 }
